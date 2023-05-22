@@ -1,4 +1,4 @@
-# Projeto - Panorama do COVID-19 no Brasil e no Mundo
+# Projeto - Panorama da COVID-19 no Brasil e no Mundo
 
 Este projeto teve como objetivo analisar os dados de uma das doenças que mais impactaram o mundo e a que mais gerou mortes nos últimos anos, a COVID-19.
 
